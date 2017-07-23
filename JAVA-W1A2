@@ -1,0 +1,49 @@
+Assignment - 2
+D S R S Varma
+
+(1) Write most popular compilers for c , c++, java ?
+(A) -> for c, GCC compiler is the most used  and recommended compiler. there are other compilers
+       for c like minGW, GNU..etc.
+    -> For c++ also GCC compiler is most recommended compiler. There are other compilers like VC
+       ++, GNU..etc.
+    -> For java, Javac is the most used compiler. the other compilers are GNU.
+
+(2) Memory architecture in computer ?
+(A) Memory architecture in a computer consists of 4 main units. they are 
+    (a) Hard disk memory :
+        -> I t is called primary memory.
+        -> A large amount of data can be stored in this memory unit when compared to RAM.
+        -> Harddisk uses magnetic disks to store the data.
+        -> Data stored in the harddisk cannot dissappear even if the power is turned off.
+    (b) Random Axis Memory :
+        -> It is the primary memory unit.
+        -> It is made up of semi-conductors.
+        -> Data transmission in this memory unit is high compared to harddisk.
+        -> We can read and write the data in the RAM.
+        -> It uses frequently used program instructions to increase the general speed of a system.
+    (c) Read Only Memory :
+        -> It is also made up of semi-conductor.
+        -> The capacity of this memory is less than RAM and higher than cache.
+        -> It stores the data even if the power is turned off.
+        -> We can only read the memory in it.
+        -> When the system is powered on, Immediatly bootstrap program in ROM transfers the O.S
+           from harddisk to RAM to control the system.
+    (d) Cache Memory : 
+        -> Just like RAM and Rom, Cache is made up of semi-conductors.
+        -> Its functioning is similar to RAM except it is very nearer to C.P.U.
+        -> It stores program instructions that are frequently re-referenced by software during
+           operation
+ 
+(3) List of high level languages? Reason ?
+(A)     Python, Visual basic, Delphi, Perl, PHP, Java Script, Ruby, SQL,  are the some of the high
+    level languages. All these languages are high level programming languages because of the same
+    reason i.e abstraction.
+        Abstraction is nothing but suppressing the more complex details in a device and using a 
+    easy operation to use it.
+        A high level language deals with variables, arrays, objects loops and other computer
+    science objects rather than register, memory address and call stacks. Higher level language
+    refers to higher-level of abstraction from machine language.
+         All the listed high level languages are highly abstracted languages.
+    
+     
+

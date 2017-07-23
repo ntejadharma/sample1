@@ -1,0 +1,28 @@
+(1) what are the features of programming language ?
+(A) ->Algorithm or pseudo code and syntax are the two main features of programming language.
+    ->Algorithm is nothing but a skeleton of the program.
+    ->Syntax is the form of the program.
+    ->There are many programming languages like c, c++, java...The main difference between all 
+      the programming languages is syntax. There is very less changes in use of algorithm in
+      different programming languages.
+
+(2) What is compiler ?
+(A) ->Compiler is a software that can convert the program code into assembly language.
+    ->Different programming languages has different compilers designed by the owners of that
+      programming language.
+    ->Compiler stores the compiled data in the memory unit.
+
+(3) What is binary languages ?
+(A) -> Binary languages is a machine language.
+    -> Binary language consists of bits of 1 and zeros.
+    -> Electronic devices can't understand the human language. So in order to communicate with the
+       electronic devices with the help of electricty binary language is created. In this binary
+       language, a 5 volt is taken as binary bit 1 and a 0 volt is taken as binary bit 0.
+
+(4) What are the roles of operating system ?
+(A) -> Operating system is like a face to the computer through which we can communicate with the
+       hardware of the computer.
+    -> Operating system is a program that can assigns the jobs to ROM, RAM, Processor.....etc.
+    -> It is the control unit.
+    -> Through operating system we can give the instructions to these computer system.
+    
